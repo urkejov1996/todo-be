@@ -1,6 +1,6 @@
-package com.in28minutes.rest.webservices.restfulwebservices.todo.repository;
+package com.rest.webservices.restfulwebservices.todo.repository;
 
-import com.in28minutes.rest.webservices.restfulwebservices.todo.Todo;
+import com.rest.webservices.restfulwebservices.todo.entity.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

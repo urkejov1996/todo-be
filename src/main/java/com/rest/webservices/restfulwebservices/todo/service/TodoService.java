@@ -1,9 +1,10 @@
-package com.in28minutes.rest.webservices.restfulwebservices.todo;
+package com.rest.webservices.restfulwebservices.todo.service;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
+import com.rest.webservices.restfulwebservices.todo.entity.Todo;
 import org.springframework.stereotype.Service;
 
 @Service

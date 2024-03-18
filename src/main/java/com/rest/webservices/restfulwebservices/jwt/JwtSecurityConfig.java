@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.jwt;
+package com.rest.webservices.restfulwebservices.jwt;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;

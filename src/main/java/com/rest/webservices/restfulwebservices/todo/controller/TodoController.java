@@ -1,5 +1,7 @@
-package com.in28minutes.rest.webservices.restfulwebservices.todo;
+package com.rest.webservices.restfulwebservices.todo.controller;
 
+import com.rest.webservices.restfulwebservices.todo.entity.Todo;
+import com.rest.webservices.restfulwebservices.todo.service.TodoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
